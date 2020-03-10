@@ -5,4 +5,4 @@ Currently, the scripts only support backing up a single hosting account. Bulk ba
 
 
 Adopted scripts:
--drop-mysql-tables.sh (GPL 2.0): https://www.cyberciti.biz/faq/how-do-i-empty-mysql-database/
+drop-mysql-tables.sh (GPL 2.0): https://www.cyberciti.biz/faq/how-do-i-empty-mysql-database/
